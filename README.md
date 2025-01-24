@@ -1,6 +1,6 @@
 # ABC Case Study Analysis
 
-This repository contains an R script that performs a comprehensive analysis of the ABC case study using financial data. Below is a detailed overview of the workflow and the key functionalities implemented.
+This repository contains an R script that performs a comprehensive analysis of the ABC (a firm) case study using financial data. Below is a detailed overview of the workflow and the key functionalities implemented.
 
 ## Workflow Summary
 
